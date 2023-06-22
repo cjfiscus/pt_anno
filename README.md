@@ -29,7 +29,7 @@ python annot_py.py 1embplant_pt.K115.complete.graph1.1.path_sequence.fasta
 ```
 
 This creates two outputs as follows:
-- <input>.gff
-- <input>.svg
+- input.gff
+- input.svg
 
 where .gff is chloe annotation of Pt genome using defaults and .svg is diagram of the Pt structure produced by chloe.
